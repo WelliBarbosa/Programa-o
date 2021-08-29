@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1629638196 source:c:\users\brothers barbosa\desktop\weligton 2021\tinho da area\programação\linguagem c\arrays de caracteres – strings\124\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
